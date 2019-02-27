@@ -8,5 +8,7 @@ body {
 	font-family: 'Raleway', sans-serif;
 	background-size: cover;
 	background-color: #FEF059;
+	background-repeat: none;
 	color: #000000;
+	text-decoration: none;
 }
